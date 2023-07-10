@@ -1,0 +1,5 @@
+https://www.youtube.com/watch?v=wbS0atTzHdM
+https://skybox.blockadelabs.com/
+https://tailwindcss.com/
+https://www.npmjs.com/package/pannellum-react
+
