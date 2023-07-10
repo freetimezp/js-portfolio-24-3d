@@ -3,7 +3,6 @@ import { Pannellum } from "pannellum-react";
 
 import fantasyNight from '../images/fantasy_night.jfif';
 import fantasyCave from '../images/fantasy_cave.jfif';
-//import fantasySky from '../images/fantasy_sky.jfif';
 
 const Home = () => {
     const [currentScene, setCurrentScene] = useState(fantasyNight);
