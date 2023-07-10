@@ -1,8 +1,8 @@
 const Contact = () => {
     return (
-        <>
-            Contact
-        </>
+        <h1 className="mt-40 ml-44 text-4xl font-extrabold">
+            CONTACT PAGE CONTENT
+        </h1>
     )
 }
 export default Contact
